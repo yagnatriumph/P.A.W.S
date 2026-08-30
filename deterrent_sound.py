@@ -37,7 +37,13 @@ def play_random_deterrent():
 
 # --- 2. CUSTOM LABEL DICTIONARY ---
 custom_labels = {
-  
+  17: “dog”,
+20: “cow,
+22: “bear”
+18: “horse”,
+0: “person”,
+15: “bird”,
+16: “cat”
 }
 
 TARGET_CLASSES = ["dog", "cat", "bird", "horse", "cow", "person"] 

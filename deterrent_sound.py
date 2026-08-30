@@ -39,7 +39,7 @@ def play_random_deterrent():
 custom_labels = {
   17: “dog”,
 20: “cow,
-22: “bear”
+22: “bear”,
 18: “horse”,
 0: “person”,
 15: “bird”,
